@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hey, I'm Matilde 👋  
 
-<!--
-**matildeoliveirasilvafeup/matildeoliveirasilvafeup** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Curious and creative Software Engineering student @ FEUP, passionate about technology, design, and innovation 🌱✨  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 Projects  
+- **Droplawi** – Full-stack development of a responsive and secure website, combining intuitive design with solid backend features.  
+- **Generative AI Internship @ INESC TEC** – Explored cutting-edge AI models for image and video generation, from Stable Diffusion to DALL·E 3.  
+
+You can find more of my academic and personal projects right here on my GitHub 🧠💡  
+
+---
+
+📍 Porto, Portugal  
+✉️ matilde.oliveira.office@gmail.com  
+🔗 [LinkedIn](https://pt.linkedin.com/in/matilde-oliveira-silva-59a83b208)
