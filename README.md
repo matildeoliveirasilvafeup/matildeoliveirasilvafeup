@@ -1,13 +1,13 @@
-# Hey, I'm Matilde 👋  
+# Hi, I'm Matilde 👋  
 
-Software Engineering student @ FEUP, passionate about technology, design, and innovation 🌱✨  
-
----
-
-You can find more of my academic and personal projects right here on my GitHub 🧠💡  
+I'm a **Software Engineering student at FEUP**, passionate about **technology, design, and innovation** ✨. I value exploring new ideas and building projects that combine creativity with technical skills.  
 
 ---
 
-📍 Porto, Portugal  
+💡 **Explore my GitHub** to see my academic and personal projects, including algorithms, web development, and software engineering experiments.  
+
+---
+
+📍 Based in Porto, Portugal  
 ✉️ matilde.oliveira.office@gmail.com  
 🔗 [LinkedIn](https://pt.linkedin.com/in/matilde-oliveira-silva-59a83b208)
