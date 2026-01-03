@@ -4,7 +4,7 @@ I'm a **Software Engineering student at FEUP**, passionate about **technology, d
 
 ---
 
-💡 **Explore my GitHub** to see my academic and personal projects, including algorithms, web development, and software engineering experiments.  
+💡 **Explore my GitHub** to see my academic and personal projects, including algorithms, Web and App development, and Software Engineering experiments.  
 
 ---
 
