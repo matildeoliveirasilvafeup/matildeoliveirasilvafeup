@@ -11,3 +11,8 @@ I'm a **Software Engineering student at FEUP**, passionate about **technology, d
 📍 Based in Porto, Portugal  
 ✉️ matilde.oliveira.office@gmail.com  
 🔗 [LinkedIn](https://pt.linkedin.com/in/matilde-oliveira-silva-59a83b208)
+
+---
+
+## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=matildeoliveirasilvafeup&show_icons=true&theme=radical)
